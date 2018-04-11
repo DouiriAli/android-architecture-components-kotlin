@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="architecturecomponentkotlin.dialtechnologies.dialcomponentarchitectutekotlin">
+    package="androidachitecturecomponent.example">
 
     <uses-permission android:name="android.permission.INTERNET"/>
 
     <application
-        android:name="architecturecomponentkotlin.dialtechnologies.DialApp"
+        android:name=".App"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
@@ -14,7 +14,7 @@
         android:theme="@style/AppTheme">
 
         <activity
-            android:name="architecturecomponentkotlin.dialtechnologies.ui.MainActivity">
+            android:name=".ui.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

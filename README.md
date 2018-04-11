@@ -1,7 +1,7 @@
 # Android Architecture Components with Kotlin
 
 
-Android Sample : **Shwo users Github** used to practice Kotlin and Android Architecture Components.
+Android Sample : **Show users Github** used to practice Kotlin and Android Architecture Components.
 
 
 # Android Achitecture Component
@@ -66,11 +66,11 @@ Tools used on the sample project
 Developed By
 ------------
 
-* Ali DOUIRI  - <my.alidouiri@gmail.com> or <a.douiri@dialy.net>
+* Ali DOUIRI  - <my.alidouiri@gmail.com>
 
 License
 -------
 
-    Copyright 2018 Dial Technologies
+    Copyright 2018
 
 

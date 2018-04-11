@@ -9,7 +9,7 @@ android {
     buildToolsVersion build_versions.build_tools
 
     defaultConfig {
-        applicationId "architecturecomponentkotlin.dialtechnologies.dialcomponentarchitectutekotlin"
+        applicationId "androidachitecturecomponent.example"
         minSdkVersion build_versions.min_sdk
         targetSdkVersion build_versions.target_sdk
         versionCode 1
@@ -83,8 +83,6 @@ dependencies {
     implementation "com.github.bumptech.glide:glide:$versions.glide"
     kapt "com.github.bumptech.glide:compiler:$versions.glide"
 
-    // Multidex
-    implementation 'com.android.support:multidex:1.0.1'
 
 }
 repositories {
