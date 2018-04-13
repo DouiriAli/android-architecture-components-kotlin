@@ -27,7 +27,7 @@ Tools used on the sample project
 
 
 # Demo
-![](media/screen.png)
+![](media/capture.png)
 
 
 
