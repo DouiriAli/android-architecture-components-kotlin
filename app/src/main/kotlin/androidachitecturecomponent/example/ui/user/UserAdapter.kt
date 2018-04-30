@@ -33,7 +33,7 @@ class UserAdapter (private var context : Context ? , private var users : List<Us
 
     }
 
-    override fun getItemCount(): Int = users!!.size
+    override fun getItemCount(): Int = users?.size
 
     class ViewHolder(itemView: View): RecyclerView.ViewHolder(itemView){
         val mName = itemView.name

@@ -6,7 +6,6 @@ apply plugin: 'kotlin-android-extensions'
 android {
 
     compileSdkVersion build_versions.target_sdk
-    buildToolsVersion build_versions.build_tools
 
     defaultConfig {
         applicationId "androidachitecturecomponent.example"
@@ -40,6 +39,7 @@ android {
         main.java.srcDirs += 'src/main/kotlin'
     }
 
+    buildToolsVersion '27.0.3'
 }
 
 dependencies {
